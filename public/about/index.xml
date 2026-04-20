@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Flowspirit</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Flowspirit</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über mich</title>
+      <link>http://localhost:1313/about/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/me/</guid>
+      <description>&lt;p&gt;Der Grundgedanke meines Blogs ist folgender:&lt;/p&gt;&#xA;&lt;p&gt;Vermittlung von Wissen und Erfahrungen, entstanden in meinem Hirn, erlebt durch meine Fleischhülle.&#xA;Geschrieben ganz ohne künstliche &amp;ldquo;Intelligenz&amp;rdquo;.&#xA;Persönlich. Echt.&lt;/p&gt;&#xA;&lt;p&gt;Nicht um dich von irgendetwas zu überzeugen.&#xA;Sondern rein aus dem Antrieb heraus, zu teilen und der Welt etwas zu hinterlassen.&lt;/p&gt;&#xA;&lt;p&gt;In dem festen Glaube, dass Teilen nicht zwangweise zu weniger führt.&lt;/p&gt;&#xA;&lt;p&gt;Hier nun eine Liste der Themen welche mich bewegen zu verfassen, würde wohl kein Ende nehmen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
