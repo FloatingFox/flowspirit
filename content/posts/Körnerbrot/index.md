@@ -16,6 +16,7 @@ categories:
 
 Dieses Brot ist ein wahres Kraftpaket!  
 Es enthält viele wichtige Nährstoffe und Ballaststoffe. Dadurch macht es für lange Zeit satt.
+Das Brot enthält weder Ei noch Mehl und ist somit für eine vegane und glutenfreie Ernährung geeignet.
 
 Das Brot ist außerdem viel länger haltbar, als herkömmliches Brot und somit super für unterwegs geeignet.
 
