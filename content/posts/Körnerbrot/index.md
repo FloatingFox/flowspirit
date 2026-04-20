@@ -14,8 +14,14 @@ categories:
 ---
 ![](körnerbrot.jpg)
 
+Dieses Brot ist ein wahres Kraftpaket!  
+Es enthält viele wichtige Nährstoffe und Ballaststoffe. Dadurch ist es für lange Zeit sättigend.
 
-Dieses Brot enthält enthält viele Ballaststoffe, wodurch es sehr sättigend ist und enthält viele wichtige Nährstoffe: 
+Das Brot ist außerdem viel länger haltbar, als herkömmliches Brot und somit super für unterwegs geeignet.
+
+Die Zubereitung ist kinderleicht und benötigt nur einen Backofen und eine Brotbackform.
+
+Also keine weiteren Ausreden, und ab in die Küche!
 
 {{< nutrition  
 kcal="480 kcal"  
@@ -25,8 +31,8 @@ carbs="40 g"
 fiber="28 g"  
 >}}
 
-Außerdem ist es lange haltbar und ist schnell vorbereitet. Wirklich!  
-Also keine weiteren Ausreden, und ab in die Küche!
+
+
 
 Zutaten:
 - 135g Sonnenblumenkerne
