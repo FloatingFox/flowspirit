@@ -18,7 +18,7 @@ categories:
 Dieses Brot enthält enthält viele Ballaststoffe, wodurch es sehr sättigend ist und enthält viele wichtige Nährstoffe: 
 
 > [!TIP] 
-> **Nährstoffe pro 100g** 
+> **Nährstoffe pro 100g**  
 > **Kalorien:** 480 kcal  
 > **Eiweiß:** 18g  
 > **Fett:** 29g  
