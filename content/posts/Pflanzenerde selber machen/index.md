@@ -2,7 +2,7 @@
 title: Pflanzenerde selber machen
 image: ""
 date: 2026-04-08T16:39:57+02:00
-draft: false
+draft: true
 description: Qualitätserde auch ohne Garten
 tags:
   - Erde
