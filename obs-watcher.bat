@@ -1,1 +1,0 @@
-PowerShell.exe -noexit -file "C:\Users\Frex\Documents\flowspirit\watch-obsidian.ps1"
