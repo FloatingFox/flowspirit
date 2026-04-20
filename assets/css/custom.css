@@ -1,0 +1,29 @@
+/* =========================
+   BASIS (für beide Modi!)
+   ========================= */
+.nutrition-box {	
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin-top: 0 !important;
+  padding-top: 0;
+}
+
+/* =========================
+   LIGHT MODE
+   ========================= */
+.light .nutrition-box {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  color: #111827;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.06);
+}
+
+/* =========================
+   DARK MODE
+   ========================= */
+.dark .nutrition-box {
+  background: #1f2937;
+  border: 1px solid #374151;
+  color: #f9fafb;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+}
