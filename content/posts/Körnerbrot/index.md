@@ -15,7 +15,7 @@ categories:
 ![](körnerbrot.jpg)
 
 Dieses Brot ist ein wahres Kraftpaket!  
-Es enthält viele wichtige Nährstoffe und Ballaststoffe. Dadurch ist es für lange Zeit sättigend.
+Es enthält viele wichtige Nährstoffe und Ballaststoffe. Dadurch macht es für lange Zeit satt.
 
 Das Brot ist außerdem viel länger haltbar, als herkömmliches Brot und somit super für unterwegs geeignet.
 
