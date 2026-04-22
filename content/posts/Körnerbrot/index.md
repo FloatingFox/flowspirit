@@ -53,7 +53,7 @@ Zutaten:
 Gut durchmischen, es dürfen keine trockenen Zutaten mehr da sein.
 
 In eine mit Backpapier ausgelegte Kastenform füllen und fest reindrücken.  
-Das Backpapier zusammenfalten, damit der Teig nicht austrocknen kann. 
+Das Backpapier über dem Teig zusammenfalten, damit der dieser während dem Ruhe nicht austrocknet. 
 
 Dann mindestens für 2 Stunden oder über Nacht ruhen/quellen lassen.
 
