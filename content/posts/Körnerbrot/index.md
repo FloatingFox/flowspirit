@@ -35,7 +35,7 @@ fiber="28 g"
 
 
 
-Zutaten:
+**Zutaten:**
 - 135g Sonnenblumenkerne
 - 90g Leinsamen (gemahlen)
 - 65g Haselnüsse oder andere Nüsse
